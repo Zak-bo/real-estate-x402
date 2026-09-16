@@ -14,7 +14,7 @@ Base Sepolia
 
 USDC via x402.
 
-Paid tools return an x402 payment requirement when called without payment. A compatible x402 client can automatically create and submit the required USDC payment and retry the request.
+Paid tools return an x402 payment requirement when called without payment. A compatible x402 client can create and submit the required USDC payment and retry the request.
 
 ## Tools
 
