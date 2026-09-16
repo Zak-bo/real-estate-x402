@@ -14,7 +14,7 @@ Base Sepolia
 
 USDC via x402.
 
-The API returns an x402 payment requirement when a paid tool is called without payment.
+Paid tools return an x402 payment requirement when called without payment. A compatible x402 client can automatically create and submit the required USDC payment and retry the request.
 
 ## Tools
 
@@ -28,7 +28,7 @@ The API returns an x402 payment requirement when a paid tool is called without p
 
 ## analyze_property
 
-The flagship analysis endpoint combines property data, comparable sales, repair estimates, ARV, and deal calculations into one response.
+The flagship analysis endpoint combines property data, comparable sales, repair estimates, ARV, and deal calculations into one machine-readable response.
 
 ### Inputs
 
@@ -63,4 +63,4 @@ An MCP client calls:
     "condition": "average",
     "purchase_price": 175000
   }
-
+}
