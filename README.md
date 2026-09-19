@@ -8,6 +8,30 @@ Instead of requiring a traditional API subscription, an agent can request a tool
 
 ---
 
+## 🚀 Try It in 2 Minutes
+
+You can test the live API using the included customer client.
+
+### 1. Clone
+
+git clone https://github.com/Zak-bo/real-estate-x402.git
+cd real-estate-x402
+
+### 2. Install
+
+npm install
+
+### 3. Create a Base Sepolia test wallet
+
+Create a test wallet and fund it with Base Sepolia USDC.
+
+**Never use a wallet containing real funds.**
+
+Create `.env`:
+
+```env
+EVM_PRIVATE_KEY=your_test_wallet_private_key
+
 ## How It Works
 
 ```text
