@@ -2,6 +2,25 @@
 
 Machine-to-machine real estate intelligence delivered through MCP and x402 micropayments.
 
+### AI agents can autonomously pay for real-estate intelligence.
+
+MCP + x402 + USDC
+
+[30-second demo]
+
+$0.08 / complete analysis
+Base Sepolia
+
+Try it
+
+Endpoint:
+https://real-estate-x402.zakery585.workers.dev/mcp
+
+Tool:
+analyze_property
+
+Machine-to-machine real estate intelligence delivered through MCP and x402 micropayments.
+
 ## Endpoint
 
 https://real-estate-x402.zakery585.workers.dev/mcp
