@@ -10,7 +10,7 @@ import { estimateRepairs, type PropertyCondition } from "./services/repairs";
 import { analyzeProperty } from "./services/analyze";
 
 const X402_CONFIG: X402Config = {
-  network: "base-sepolia",
+  network: "base",
   recipient: "0x6bF83015d625c56fFA99f4174fe76390154820E2",
   facilitator: {
     url: "https://x402.org/facilitator",
