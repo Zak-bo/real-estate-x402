@@ -303,6 +303,15 @@ export class RealEstateMCP extends McpAgent<Env> {
         idempotentHint: true,
       },
 async ({ address, condition, purchase_price }) => {
+  console.log("========================================");
+  console.log("PAID REQUEST RECEIVED");
+  console.log("Tool: analyze_property");
+  console.log("Address:", address);
+  console.log("Condition:", condition);
+  console.log("Purchase price:", purchase_price ?? "Not provided");
+  console.log("Time:", new Date().toISOString());
+  console.log("========================================");
+
   try {
     const result = await analyzeProperty(
       address,
