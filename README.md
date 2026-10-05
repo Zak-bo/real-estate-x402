@@ -62,7 +62,7 @@ https://real-estate-x402.zakery585.workers.dev/mcp
 ## Marketplace
 
 FiatDock:
-[listing link]
+https://fiatdock.com/service/svc_dbd3bf0a-5a44-435c-b8d6-060e04c3867e
 
 ## For Developers
 
