@@ -1,11 +1,21 @@
 # Real Estate Intelligence MCP
+### 💰 Buy / Use the Service
 
-Pay-per-call real-estate analysis for AI agents.
+**Live MCP service available through FiatDock:**
+
+👉 [Get access / purchase the service](https://fiatdock.com/service/svc_dbd3bf0a-5a44-435c-b8d6-060e04c3867e)
+
+AI agents can call the MCP tools and pay automatically per request using **USDC on Base**.
+
+**Live MCP Endpoint:**
+```text
+https://real-estate-x402.zakery585.workers.dev/mcp
+```
 
 Give an agent a property address → receive:
 • Property details
 • Comparable sales
-• Repair estimate
+• Repair estimate 
 • ARV
 
 💰 $0.08 USDC / analysis
@@ -59,10 +69,6 @@ Use the remote MCP endpoint:
 
 https://real-estate-x402.zakery585.workers.dev/mcp
 
-## Marketplace
-
-FiatDock:
-https://fiatdock.com/service/svc_dbd3bf0a-5a44-435c-b8d6-060e04c3867e
 
 ## For Developers
 
